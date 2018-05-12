@@ -88,9 +88,8 @@ h1, h6 {
 }
 
 
-footer {
+.w3 {
     background: transparent;
-    position: absolute;
-    bottom: 5%;
-    right: 50%;
+    
 }
+
